@@ -1,19 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gyeongwon James Kim",
+    "label": "Undergraduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "gyeongwk@andrew.cmu.edu",
+    "phone": "224-425-7781",
+    "url": "https://j1mk1m.github.io",
+    "summary": "Computer Science student interested in Artificial Intelligence and CS Theory",
     "profiles": [
       {
         "network": "Twitter",
