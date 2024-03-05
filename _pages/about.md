@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p style="text-align: center">Gyeongwon James Kim</p>
     <p style="text-align: center">Undergraduate Student</p>
     <p style="text-align: center">Carnegie Mellon University</p>
     <p style="text-align: center">gyeongwk@andrew.cmu.edu</p>
