@@ -224,7 +224,6 @@ exclude:
   - _pages/repositories.md
   - _pages/cv.md
   - _pages/projects.md
-  - _pages/blog.md
   - lighthouse_results
   - reports
 keep_files:
