@@ -224,7 +224,9 @@ exclude:
   - _pages/repositories.md
   - _pages/cv.md
   - _pages/projects.md
-  - _pages/blogs.md
+  - _pages/blog.md
+  - lighthouse_results
+  - reports
 keep_files:
   - CNAME
   - .nojekyll
@@ -280,8 +282,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
