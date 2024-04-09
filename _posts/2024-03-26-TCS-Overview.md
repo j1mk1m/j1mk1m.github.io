@@ -1,3 +1,12 @@
+--
+layout: post
+title: TCS Overview
+date: 2024-03-26
+description: my take on Theoretical Computer Science
+tags: TCS
+categories: TCS
+--
+
 Here is my take on Theoretical Computer Science:
 
 One misconception I had before coming to CMU about *computer science* was that it was just about writing code. Although I do spend a lot of time programming, computer science is a lot more than just code. The way we define computer science is that it is a study of *computation*. Well, what is computation? 
